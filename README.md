@@ -17,9 +17,16 @@ Sports Fans LLC has the goal of opening at least one location in every city with
 
 ## Relevant Information
 
-While the data sets used were very similar, there were some key differences. The Baltimore data set only included major crimes, while the San Francisco data set included all reported incidents. The San Francisco data set only contained information from 2018-present while the Baltimore data set included information from the 2000s to present. For the sake of consistency, visuals have been filtered to include data only from 2018 onward for both sets. Additionally, most visuals focus on the top 10 crime categories per city that would be relevant to a retail store. These modifications exclude unnecessary information in order to provide more precise insight. 
+While the data sets used were very similar, there were some key differences. The Baltimore data set only included major crimes, while the San Francisco data set included all reported incidents. 
+
+Major (Part 1) crimes are defined as against persons includinghomicide, shooting, robbery, aggravated assault etc. within the City of Baltimore. Data for the Baltimore dataset is updated weekly.
+
+The San Francisco dataset includes incident reports that have been filed as of January 1, 2018 to present. 
+These reports are filed by officers or self-reported by members of the public using SFPD’s online reporting system, then they are reviewed and approved by a Sergeant or lieutenant.
 
 ## Visualizations
+The San Francisco dataset only contained information from 2018-present while the Baltimore data set included information from the 2000s to present. For the sake of consistency, visuals have been filtered to include data only from 2018 onward for both sets. Additionally, most visuals focus on the top 10 crime categories per city that would be relevant to a retail store. These modifications exclude unnecessary information in order to provide more precise insight.
+
 Please visit the linked Crime stories for interactive crime statistics. 
 [Link to Baltimore Tableau Crime Story](https://public.tableau.com/app/profile/melissa.madera/viz/shared/KNHQDG4GK)
 
