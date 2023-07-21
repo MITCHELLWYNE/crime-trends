@@ -17,9 +17,10 @@ Sports Fans LLC has the goal of opening at least one location in every city with
 
 ## Relevant Information
 
-While the data sets used were very similar, there were some key differences. The Baltimore data set only included major crimes, while the San Francisco data set included all reported incidents. The San Francisco data set only contained information from 2018-present while the Baltimore data set included information from the 2000s to present. For the sake of consistency, visuals have been filtered to include data only from 2018 onward for both sets. Additionally, most visuals focus on the top 10 crime categories per city that would be relevant to a retail store. These modifications exclude unnecessary information in order to proide more precise insight. 
+While the data sets used were very similar, there were some key differences. The Baltimore data set only included major crimes, while the San Francisco data set included all reported incidents. The San Francisco data set only contained information from 2018-present while the Baltimore data set included information from the 2000s to present. For the sake of consistency, visuals have been filtered to include data only from 2018 onward for both sets. Additionally, most visuals focus on the top 10 crime categories per city that would be relevant to a retail store. These modifications exclude unnecessary information in order to provide more precise insight. 
 
 ## Visualizations
+Please visit the linked Crime stories for interactive crime statistics. 
 [Link to Baltimore Tableau Crime Story](https://public.tableau.com/app/profile/melissa.madera/viz/shared/KNHQDG4GK)
 
 [Link to San Francisco Tableau Crime Story](https://public.tableau.com/app/profile/ariel.lin2108/viz/Project4SFCrime/SanFranciscoCrimeStory)
