@@ -17,7 +17,7 @@ Sports Fans LLC has the goal of opening at least one location in every city with
 
 ## Relevant Information
 
-While the data sets used were very similar, there were some key differences. The Baltimore data set only included major crimes, while the San Francisco data set included all reported incidents. 
+While the datasets used were very similar, there were some key differences. The Baltimore dataset only included major crimes, while the San Francisco dataset included all reported incidents. 
 
 Major (Part 1) crimes are defined as against persons includinghomicide, shooting, robbery, aggravated assault etc. within the City of Baltimore. Data for the Baltimore dataset is updated weekly.
 
